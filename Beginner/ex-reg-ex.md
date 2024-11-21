@@ -21,6 +21,7 @@ Mình sẽ tách thành từng đoạn nhỏ để dịch.
 Mình sẽ dịch tạm các kí tự trên thành: `drancdefe123am@abcd.abc`
 
 Nhập vào mục Input, mình thu được flag. 
+
 ![image](https://github.com/user-attachments/assets/3a9e8674-85da-43a5-8268-db29652ab1c5)
 
 Flag: `DH{e64a267ab73ae3cea7ff1255b5f08f3e5761defbfa6b99f71cbda74b7a717db3}`
